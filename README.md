@@ -1,10 +1,10 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chandan Kumar Vishwakarma</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul Kumar Singh</h1>
 I'm a passionate full stack web developer from Ranchi. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <br/>
 <br/>
 
-🌱 I’m proficient in **Data Structures and Algorithms** and **MERN Stack**.
+🌱 I’m proficient in  **MERN Stack**.
 
 
 ## 🚀 Languages and Tools:
@@ -30,14 +30,7 @@ I'm a passionate full stack web developer from Ranchi. My passion for software l
       alt="LinkedIn"
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
   /></a>
-  <a
-    href="https://medium.com/@chandankrbit3
-    "
-    target="_blank"
-    ><img
-      alt="Medium"
-      src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"
-  /></a>
+  
   <a href="chandankrbit3@gmail.com" target="_blank"
     ><img
       alt="Gmail"
