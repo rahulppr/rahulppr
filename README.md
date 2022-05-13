@@ -25,7 +25,7 @@ I'm a passionate full stack web developer from Ranchi. My passion for software l
         
 ## Where to find me
 <p>
-  <a href="linkedin.com/in/rahul-singh-059907229" target="_blank"
+  <a href="https://linkedin.com/in/rahul-singh-059907229" target="_blank"
     ><img
       alt="LinkedIn"
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
